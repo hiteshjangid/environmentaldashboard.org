@@ -79,7 +79,7 @@
           </a>
         </div>
         <div class="carousel-item">
-          <a href="https://buildingos.com/s/oberlincity/storyboard314/?chapterId=1390" <?= $target ?>>
+          <a href="https://oberlin.communityhub.cloud/dh-public/ops-embed?active-page=exploreData" <?= $target ?>>
             <img class="d-block w-100" src="https://environmentaldashboard.org/images/uploads/2015/07/homepage-slider2-schools1.jpg" alt="Fifth slide">
           </a>
         </div>
